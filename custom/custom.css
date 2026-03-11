@@ -49,6 +49,10 @@
         display: none;
     }
 
+    video {
+        max-height: 850px;
+    }
+
 }
 
 /* Left Sidebar */
