@@ -3,7 +3,7 @@
   |--|--|
   |**[[Psychology]]**|[[Instance Model (Freud)]]|
   |--|--|
-  |**[[Programming]]**|[[Git]], [[Software Design Principles]]|
+  |**[[Programming]]**|[[Git]], [[Programming Principles]], [[AI]]|
   #+END_QUOTE
 - NOTE: Green Texts are clickable and lead to other pages
 -
